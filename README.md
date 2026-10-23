@@ -28,8 +28,8 @@ I'm developing my skills in data analysis, data visualization, and extracting me
 **Tools:** Power BI, Power Query, DAX.
 
 **Goal:** Explore healthcare trends and present key metrics through visualizations to support data analysis and decision-making.
+- **Marketing Dashboard** — An analysis of marketing performance, campaign results, and key marketing metrics.
 - **Product Sales Dashboard** — An analysis of product sales, profitability, and product performance.
-- **Customer Dashboard** — An exploration of customer-related metrics and sales patterns.
 
 *Project details and dashboard previews will be added as the projects are finalized.*
 
