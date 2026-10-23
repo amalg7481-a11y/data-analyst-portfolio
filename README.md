@@ -14,11 +14,13 @@ I'm developing my skills in data analysis, data visualization, and extracting me
 ## Projects
 
 ### Power BI Projects
+### 1. Sales Dashboard (Power BI)
+![Sales Dashboard](./sales%20dashboard.PNG)
+### 2. Healthcare Dashboard (Power BI)
+![Healthcare Dashboard](./healthcare%20dashboard.PNG)
 
-- **Sales Dashboard** — An exploration of sales performance and key business metrics.
 - **Product Sales Dashboard** — An analysis of product sales, profitability, and product performance.
 - **Customer Dashboard** — An exploration of customer-related metrics and sales patterns.
-- **Healthcare Dashboard** — An analysis of healthcare data, hospital admissions, and billing.
 
 *Project details and dashboard previews will be added as the projects are finalized.*
 
