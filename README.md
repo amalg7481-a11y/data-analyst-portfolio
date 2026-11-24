@@ -18,6 +18,7 @@ I'm developing my skills in data analysis, data visualization, and extracting me
 
 ![Manhattan Real Estate Dashboard](./WhatsApp%20Image%202026-11-20%20at%208.49.40%20PM.jpeg)
 ![Manhattan Real Estate Dashboard](./WhatsApp%20Image%202026-11-20%20at%208.49.40%20PM%20(1).jpeg)
+![Manhattan Real Estate Dashboard](./WhatsApp%20Image%202026-11-24%20at%2011.18.01%20PM.jpeg)
 **Overview:** An analysis of Manhattan real estate sales data designed to explore property prices, neighborhood trends, building categories, and sales patterns.
 
 **Tools:** Python, Pandas, Matplotlib, Power BI.
@@ -42,9 +43,6 @@ I'm developing my skills in data analysis, data visualization, and extracting me
 - **Product Sales Dashboard** — An analysis of product sales, profitability, and product performance.
 
 *Project details and dashboard previews will be added as the projects are finalized.*
-
-## Currently Learning
-- Python with Pandas,numpy
 
 ## Contact
 - LinkedIn: https://www.linkedin.com/in/amalgamal
