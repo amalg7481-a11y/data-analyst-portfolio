@@ -14,20 +14,30 @@ I'm developing my skills in data analysis, data visualization, and extracting me
 ## Projects
 
 ### Power BI Projects
-### 1. Sales Dashboard (Power BI)
+### 1. Manhattan Real Estate Analysis (Python & Power BI)
+
+![Manhattan Real Estate Dashboard](./YOUR-IMAGE-FILE-NAME.png)
+
+**Overview:** An analysis of Manhattan real estate sales data designed to explore property prices, neighborhood trends, building categories, and sales patterns.
+
+**Tools:** Python, Pandas, Matplotlib, Power BI.
+
+**Goal:** Analyze real estate market trends and identify insights into property sales and pricing across Manhattan.
+### 2. Sales Dashboard (Power BI)
 ![Sales Dashboard](./sales%20dashboard.PNG)
 **Overview:** An interactive Power BI dashboard designed to analyze sales performance and identify key trends.
 
 **Tools:** Power BI, Power Query, DAX.
 
 **Goal:** Present sales data through visualizations and KPIs to support data-driven decision-making.
-### 2. Healthcare Dashboard (Power BI)
+### 3. Healthcare Dashboard (Power BI)
 ![Healthcare Dashboard](./healthcare%20dashboard.PNG)
 **Overview:** An interactive Power BI dashboard designed to analyze healthcare data, including patient demographics, admissions, medical conditions, and billing.
 
 **Tools:** Power BI, Power Query, DAX.
 
 **Goal:** Explore healthcare trends and present key metrics through visualizations to support data analysis and decision-making.
+
 - **Marketing Dashboard** — An analysis of marketing performance, campaign results, and key marketing metrics.
 - **Product Sales Dashboard** — An analysis of product sales, profitability, and product performance.
 
