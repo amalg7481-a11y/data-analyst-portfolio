@@ -16,8 +16,7 @@ I'm developing my skills in data analysis, data visualization, and extracting me
 ### Power BI Projects
 ### 1. Manhattan Real Estate Analysis (Python & Power BI)
 
-![Manhattan Real Estate Dashboard](./YOUR-IMAGE-FILE-NAME.png)
-
+![Manhattan Real Estate Dashboard](./WhatsApp%20Image%202026-11-20%20at%208.49.40%20PM.jpeg)
 **Overview:** An analysis of Manhattan real estate sales data designed to explore property prices, neighborhood trends, building categories, and sales patterns.
 
 **Tools:** Python, Pandas, Matplotlib, Power BI.
